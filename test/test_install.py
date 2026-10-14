@@ -30,7 +30,7 @@ def main():
     plt.plot(array)
     plt.ylabel('Some meaningful numbers')
     plt.xlabel('The x-axis')
-    plt.title('Wohoo')
+    plt.title('whupwhup')
 
     plt.show()
 
